@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad</h1>
+    <p>En Esta política de privacidad explica cómo recopilamos, utilizamos y protegemos tu información personal cuando usas nuestros servicios.</p>
+    <p><strong>Recopilación de información:</strong> Recopilamos información que nos proporcionas directamente, como tu nombre y dirección de correo electrónico, así como información sobre tu uso de nuestros servicios.</p>
+    <p><strong>Uso de la información:</strong> Utilizamos tu información para proporcionar y mejorar nuestros servicios, comunicar contigo y cumplir con nuestras obligaciones legales.</p>
+    <p><strong>Protección de la información:</strong> Tomamos medidas razonables para proteger tu información personal contra acceso no autorizado, alteración, divulgación o destrucción.</p>
+    <p><strong>Compartición de la información:</strong> No compartimos tu información personal con terceros sin tu consentimiento, excepto cuando sea necesario para cumplir con la ley o proporcionar nuestros servicios.</p>
+    <p><strong>Derechos del usuario:</strong> Tienes derecho a acceder, corregir o eliminar tu información personal. Para hacerlo, contáctanos en [correo electrónico de contacto].</p>
+    <p>Para más detalles, revisa nuestra política completa en nuestro sitio web o contáctanos si tienes alguna pregunta.</p>
+</body>
+</html>
